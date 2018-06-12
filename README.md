@@ -6,7 +6,7 @@
     ```
     nvm --version
     ```
-    ![](https://imgur.com/a/mgeuLei)
+    ![](https://i.imgur.com/3w41H5xg.png)
 
 3.	ทำการลง node  version ที่ต้องการ  โดยใช้คำสั่ง 
     ```
@@ -17,10 +17,18 @@
     ```
     nvm list
     ```
-    ![](https://imgur.com/a/HqOyFRB)
+    ![](https://i.imgur.com/g4HomRr.png)
 
 5.	ทำการเลือก version node ที่ต้องการใช้งาน
-    ![](https://imgur.com/a/5HcA9G6)
+    ```
+    nvm use [node version]
+    ```
+    
+    ![](https://i.imgur.com/09CLlhK.png)
 
 6.	ทำการเช็ค version node ที่ใช้งานอยู่
-    ![](https://imgur.com/a/VZHgnDR)
+    ```
+    node -v
+    ```
+    
+    ![](https://i.imgur.com/FkGMtRd.png)
